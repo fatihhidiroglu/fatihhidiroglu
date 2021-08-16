@@ -2,10 +2,10 @@
 
 <p align="center">
 <a href="mailto: fatih.hidiroglu@hotmail.com"><img src="https://img.shields.io/badge/-email-1d76b0?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
-<a  href="https://www.instagram.com/ef_hdrgl/">   <img src="https://img.shields.io/badge/instagram-5851db.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/ef_hdrgl/"><img src="https://img.shields.io/badge/instagram-5851db.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/fatih-hidiroglu/"><img src="https://img.shields.io/badge/linkedin-0a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-<a  href="https://dribbble.com/fatihhidiroglu/"><img src="https://img.shields.io/badge/dribbble-ea4c89.svg?&style=for-the-badge&logo=dribbble&logoColor=white"></a>
-<a  href="https://tr.pinterest.com/tsfraiders/_saved/"><img src="https://img.shields.io/badge/pinterest-e60023.svg?&style=for-the-badge&logo=dribbble&logoColor=white"></a>  
+<a href="https://dribbble.com/fatihhidiroglu/"><img src="https://img.shields.io/badge/dribbble-ea4c89.svg?&style=for-the-badge&logo=dribbble&logoColor=white"></a>
+<a href="https://tr.pinterest.com/tsfraiders/_saved/"><img src="https://img.shields.io/badge/pinterest-e60023.svg?&style=for-the-badge&logo=dribbble&logoColor=white"></a>  
 </p>
 
 ### Current Status :
@@ -18,9 +18,9 @@
 
 
 ### Stats Overview : :cyclone:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihhidiroglu&show_icons=true&count_private=false&include_all_commits=true&theme=material-palenight" /> <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihhidiroglu&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
-</a>
+<a href="https://github.com/fatihhidiroglu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihhidiroglu&show_icons=true&count_private=false&include_all_commits=true&theme=material-palenight"/></a> <a href="https://github.com/fatihhidiroglu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihhidiroglu&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" /> </a>
 
 ### Tools I work upon : 🛠
 <p align="center">
