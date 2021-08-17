@@ -1,10 +1,10 @@
 ### Hi there buddy I'm Fatih 👋
 <p align="center">
-<img  src="https://raw.githubusercontent.com/fatihhidiroglu/images/master/avatar.png?token=AMVCBDJOOINOHIAJFR6B5UTBET3RQ" width="15%"/>
+<a href="https://github.com/fatihhidiroglu"><img src="https://raw.githubusercontent.com/fatihhidiroglu/images/master/avatar.png?token=AMVCBDJOOINOHIAJFR6B5UTBET3RQ" width="15%"/></a>
 </p>
 
 <p align="center">
-<a href="mailto: fatih.hidiroglu@hotmail.com"><img src="https://img.shields.io/badge/-email-1d76b0?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
+<a href="mailto: fatih.hidiroglu@hotmail.com"><img src="https://img.shields.io/badge/-email-1d76b0?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white"></a>
 <a href="https://www.instagram.com/ef_hdrgl/"><img src="https://img.shields.io/badge/instagram-5851db.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/fatih-hidiroglu/"><img src="https://img.shields.io/badge/linkedin-0a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 <a href="https://dribbble.com/fatihhidiroglu/"><img src="https://img.shields.io/badge/dribbble-ea4c89.svg?&style=for-the-badge&logo=dribbble&logoColor=white"></a>
