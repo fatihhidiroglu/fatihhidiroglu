@@ -1,4 +1,7 @@
 ### Hi there buddy I'm Fatih 👋
+<p align="center">
+<img  src="https://raw.githubusercontent.com/fatihhidiroglu/images/master/avatar.png?token=AMVCBDJOOINOHIAJFR6B5UTBET3RQ" width="15%"/>
+</p>
 
 <p align="center">
 <a href="mailto: fatih.hidiroglu@hotmail.com"><img src="https://img.shields.io/badge/-email-1d76b0?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
