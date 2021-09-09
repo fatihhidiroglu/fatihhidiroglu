@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/ef_hdrgl/"><img src="https://img.shields.io/badge/instagram-5851db.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/fatih-hidiroglu/"><img src="https://img.shields.io/badge/linkedin-0a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 <a href="https://dribbble.com/fatihhidiroglu/"><img src="https://img.shields.io/badge/dribbble-ea4c89.svg?&style=for-the-badge&logo=dribbble&logoColor=white"></a>
-<a href="https://tr.pinterest.com/tsfraiders/_saved/"><img src="https://img.shields.io/badge/pinterest-e60023.svg?&style=for-the-badge&logo=dribbble&logoColor=white"></a>  
+<a href="https://tr.pinterest.com/tsfraiders/_saved/"><img src="https://img.shields.io/badge/pinterest-e60023.svg?&style=for-the-badge&logo=pinterest&logoColor=white"></a>  
 </p>
 
 ### Current Status :
