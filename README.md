@@ -1,6 +1,6 @@
 ### Hi there buddy I'm Fatih 👋
 <p align="center">
-<a href="https://github.com/fatihhidiroglu"><img src="https://github.com/fatihhidiroglu/images/blob/7ddac24fe815024d8235db0e27827a58364fd9a7/avatar.png" width="15%"/></a>
+<a href="https://github.com/fatihhidiroglu"><img src="https://avatars.githubusercontent.com/u/53092493?v=4" width="15%"/></a>
 </p>
 
 <p align="center">
