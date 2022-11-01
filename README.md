@@ -15,7 +15,7 @@
 
 - 💼 I work as a software developer at <strong>[Detaysoft Company](https://www.detaysoft.com) </strong>
 - 🔭 I'm currently developing myself in <strong>PHP & UI Design</strong>
-- 🌱 I’m currently learning <strong>Phalcon, Codeigniter, Symfony & Figma</strong>
+- 🌱 I’m currently learning <strong>Phalcon, Codeigniter & Figma</strong>
 - 🤔 My research interests are with <strong>PHP Framework, design, Flutter</strong>, etc
 - 👀 See My [Personal Portfolio](https://www.fatihhidiroglu.com) for more information but it's not ready yet 😁
 
@@ -27,7 +27,7 @@
 
 ### Tools I work upon : 🛠
 <p align="center">
- <img src="https://img.shields.io/badge/HTML%20-252525.svg?&style=for-the-badge&logo=html5&logoColor=dd4b25"> <img src="https://img.shields.io/badge/CSS%20-252525.svg?&style=for-the-badge&logo=css3&logoColor=2862e9"> <img src="https://img.shields.io/badge/js%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/laravel%20-ff2d20.svg?&style=for-the-badge&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/docker%20-%230D597F.svg?&style=for-the-badge&logo=docker&logoColor=white"> <img src="http://img.shields.io/badge/-Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/React%20-1f292b.svg?&style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/sass%20-c76494.svg?&style=for-the-badge&logo=sass&logoColor=white">
+ <img src="https://img.shields.io/badge/HTML%20-252525.svg?&style=for-the-badge&logo=html5&logoColor=dd4b25"> <img src="https://img.shields.io/badge/CSS%20-252525.svg?&style=for-the-badge&logo=css3&logoColor=2862e9"> <img src="https://img.shields.io/badge/js%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/laravel%20-ff2d20.svg?&style=for-the-badge&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/mysql%20-035d86.svg?&style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/docker%20-2592e5.svg?&style=for-the-badge&logo=docker&logoColor=white"> <img src="http://img.shields.io/badge/-Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/React%20-282c34.svg?&style=for-the-badge&logo=react&logoColor=%60dafb"> <img src="https://img.shields.io/badge/sass%20-c76494.svg?&style=for-the-badge&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/figma%20-9d56f7.svg?&style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 </p>
