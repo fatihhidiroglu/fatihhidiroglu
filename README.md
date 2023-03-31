@@ -17,7 +17,7 @@
 - 🔭 I'm currently developing myself in <strong>PHP & UI Design</strong>
 - 🌱 I’m currently learning <strong>Phalcon, Codeigniter & Figma</strong>
 - 🤔 My research interests are with <strong>PHP Framework, design, Flutter</strong>, etc
-- 👀 See My [Personal Portfolio](https://www.fatihhidiroglu.com) for more information but it's not ready yet 😁
+- 👀 See My [Personal Portfolio](https://fhblog.vercel.app) for more information 😁
 
 
 ### Stats Overview : :cyclone:
