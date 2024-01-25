@@ -13,7 +13,7 @@
 
 ### Current Status :
 
-- 💼 I work as a software developer at <strong>[Detaysoft Company](https://www.detaysoft.com) </strong>
+
 - 🔭 I'm currently developing myself in <strong>React.Js & UI Design</strong>
 - 🌱 I’m currently learning <strong>React.Js, React Native & Figma</strong>
 - 🤔 My research interests are with <strong>React, design, Flutter</strong>, etc
